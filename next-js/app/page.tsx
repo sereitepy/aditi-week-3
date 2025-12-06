@@ -4,7 +4,7 @@ import Data from './components/fetch-api'
 
 export default function Home() {
   return (
-    <div className='w-full'>
+    <div className=''>
       {/* <TodoList /> */}
       <Data />
     </div>

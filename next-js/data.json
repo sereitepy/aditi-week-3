@@ -1,0 +1,42 @@
+{
+  "shop": [
+    {
+      "id": 1,
+      "title": "Tepy",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vGOBEYV58eGTZ27bKIq8raQbJ22FR6jDUOA9JPvQAyq-7UCCzLl_QnScn545xNQ16zk3kg&s=10",
+      "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+      "id": 2,
+      "title": "Or",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB49cFE88KvV1yj6Z88bCA0SA3522Q7Ls8zGWSnuUuEybWP0q0MmBTKvy5teHomTCyVm5E&s=10",
+      "rating": { "rate": 3.6, "count": 145 }
+    },
+    {
+      "id": 3,
+      "title": "Sereitepy",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://academy.allaboutbirds.org/wp-content/uploads/2015/07/Painted_Bunting_male_Birdhsare_Tim_Hopwood.jpg",
+      "rating": { "rate": 3.6, "count": 145 }
+    }
+  ],
+  "person": [
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+      "rating": { "rate": 3.6, "count": 145 }
+    }
+  ]
+}
