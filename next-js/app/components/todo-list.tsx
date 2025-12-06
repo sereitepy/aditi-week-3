@@ -13,7 +13,7 @@ function TodoList() {
   }, [tasks])
 
   const handleAdd = () => {
-    if (input.trim()) {
+    if (input) {
       setTasks([...tasks, { id: Date.now(), task: input }])
       setInput('')
     }
